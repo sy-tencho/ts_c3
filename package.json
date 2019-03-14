@@ -1,0 +1,31 @@
+{
+  "name": "ts_c3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sy-tencho/ts_c3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sy-tencho/ts_c3/issues"
+  },
+  "homepage": "https://github.com/sy-tencho/ts_c3#readme",
+  "dependencies": {
+    "@types/c3": "^0.6.3",
+    "c3": "^0.6.13"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
